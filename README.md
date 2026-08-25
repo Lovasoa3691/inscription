@@ -68,6 +68,8 @@ Chaque étudiant peut :
 ```
 
 Je pouvez-vous utilisé les informations suivants pour tester l'application:
+```
 email: orionscotty@gmail.com
 password: admin3691
+```
 
